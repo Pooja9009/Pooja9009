@@ -1,6 +1,6 @@
-<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Pooja Rijal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">Web Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
 ## Dynamic Quotes 📜:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
@@ -8,15 +8,13 @@
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
+<img width="40%" align="right" alt="Github Header" src="git-header.svg" />
 
 <p>
   
-- Computer Science & Engineering - 3rd year @ Mepco Schlenk Engineering College. 🎓
-- Currently working with <a href="https://www.deepsphere.ai/" target="_black">DeepSphere.AI</a> as a Data Science Intern. 🏥
-- Looking for opportunities and collaborations in the field of data science. ✅
+- Bsc. Hons Computing  @Softwarica College of IT and E-comerce. 🎓
+- Looking for opportunities and collaborations in the field of Web development, UI/UX and Graphic Designing. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Technical Blogger 📝
 </p>
 
 <div align="center">
