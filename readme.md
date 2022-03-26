@@ -49,7 +49,8 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+<a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://img.shields.io/badge/VScode-blue?logo=visual%20studio%20code&logocolor=white&style=for-the-badge" alt="vscode"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-green?logo=figma&logocolor=white&style=for-the-badge" alt="figma"/> </a>
 
 ## **Badges🥇**<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
