@@ -79,11 +79,9 @@
 <a href="https://gitstalk.netlify.app/pooja9009" target="_blank"> See My Latest Activities Here</a>
 
 <img src ="images/social_dashboard.svg" align = "left" width = 50%>
-  
-<!-- <div> -->
- 
+<div>
 <h2  > Connect with me</h2>
-  
+
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pooja-rijal-bb568820a/)
 <br><br>
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/its_puzarizal/)
@@ -94,9 +92,12 @@
 <br><br>
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@pooja932)
 <br><br>
+[<img align="top" alt="Medium" src="https://img.shields.io/badge/indeed-yellow?style=for-the-badge&logo=indeed&logoColor=white" />](https://my.indeed.com/resume?hl=en&co=US&from=gnav-homepage&_ga=2.255292303.681673802.1648357489-2003792501.1647869093)
+<br><br>
   
+
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://platane.github.io/snk/)
+<img width="100%" align="right" alt="Github Header" src="images/github-contribution-grid-snake.svg" />
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
