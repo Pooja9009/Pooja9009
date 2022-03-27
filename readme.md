@@ -23,7 +23,7 @@
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="images/cv.pdf" width="200" height="200" alt="WebsiteQR"></a>
 </div> -->
 
-<img width="40%" align="right" alt="Github Header" src="R.gif" />
+<img width="40%" align="right" alt="Github Header" src="images/R.gif" />
 
 <h3 align="left">Interests:</h3>
 
@@ -98,7 +98,7 @@
 <br><br>
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/Pooja9009/Pooja9009/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Pooja9009/Pooja9009/output/github-user-contribution.svg)
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
