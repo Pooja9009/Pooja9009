@@ -2,9 +2,6 @@
 
 <h3 align="center">Web Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
-
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
@@ -97,8 +94,8 @@
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@pooja932)
 <br><br>
   
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/Pooja9009/Pooja9009/output/github-user-contribution.svg)
+<!-- ## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/Pooja9009/Pooja9009/images/github-user-contribution.svg) -->
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
