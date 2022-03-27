@@ -2,9 +2,6 @@
 
 <h3 align="center">Web Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
-
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
@@ -23,7 +20,7 @@
 <a href="https://avinash-218.github.io/avinash-portfolio-2/"><img src="images/cv.pdf" width="200" height="200" alt="WebsiteQR"></a>
 </div> -->
 
-<img width="40%" align="right" alt="Github Header" src="R.gif" />
+<img width="40%" align="right" alt="Github Header" src="images/R.gif" />
 
 <h3 align="left">Interests:</h3>
 
@@ -97,8 +94,8 @@
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@pooja932)
 <br><br>
   
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/Pooja9009/Pooja9009/output/github-contribution-grid-snake.svg)
+<!-- ## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/Pooja9009/Pooja9009/images/github-user-contribution.svg) -->
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
