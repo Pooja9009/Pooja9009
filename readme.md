@@ -78,9 +78,10 @@
 
 <a href="https://gitstalk.netlify.app/pooja9009" target="_blank"> See My Latest Activities Here</a>
 
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
-<div>
+<img src ="images/social_dashboard.svg" align = "left" width = 50%>
   
+<!-- <div> -->
+ 
 <h2  > Connect with me</h2>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pooja-rijal-bb568820a/)
@@ -94,8 +95,8 @@
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@pooja932)
 <br><br>
   
-<!-- ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/Pooja9009/Pooja9009/images/github-user-contribution.svg) -->
+## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://platane.github.io/snk/)
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
