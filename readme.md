@@ -10,7 +10,7 @@
 <p>
   
 - Bsc. Hons Computing  @Softwarica College of IT and E-comerce. 🎓
-- Looking for opportunities and collaborations in the field of Web development, UI/UX and Graphic Designing. ✅
+- Looking for opportunities and collaborations in the field of Web development, UI/UX and DataScience. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 </p>
 
