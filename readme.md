@@ -1,6 +1,14 @@
-<h1 align="center">Hey there, I'm Pooja Rijal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Pooja Rijal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3 align="center">Web Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+</h1>
+
+<h3 align="center">Web Enthusiast, Open-source Contributor and Data Science</h3>
 
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
@@ -76,25 +84,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pooja9009&theme=chartreuse-dark" />
 </p>  
 
-<a href="https://gitstalk.netlify.app/pooja9009" target="_blank"> See My Latest Activities Here</a>
 
-<img src ="images/social_dashboard.svg" align = "left" width = 50%>
 <div>
-<h2  > Connect with me</h2>
 
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pooja-rijal-bb568820a/)
-<br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/its_puzarizal/)
-<br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/17812587/pooja-rijal)
-<br><br>
-[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/pooja9009)
-<br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@pooja932)
-<br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/indeed-yellow?style=for-the-badge&logo=indeed&logoColor=white" />](https://my.indeed.com/resume?hl=en&co=US&from=gnav-homepage&_ga=2.255292303.681673802.1648357489-2003792501.1647869093)
-<br><br>
-  
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
 <img width="100%" align="right" alt="Github Header" src="images/github-contribution-grid-snake.svg" />
